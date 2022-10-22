@@ -9,7 +9,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 4. Calculate the percerntage of votes each candidate won.
 5. Determine the winner of the election based on popular vote. 
 
-#Resources
+##Resources
 - Data Source: election_results.csv
 - Software: Python 3.10.8, Visula Studio Code, 1.38.1
 
@@ -40,6 +40,7 @@ The analysis of the election show that:
 ##Challenge Overview
 In this challenge we were able to understand the basics of reading and writing with data, interacting with the data and performing some math calculations. 
 The way the challenge was set up, was easily placed to place in the data as same way as the other results. Challenge was not difficult but understanding the main concepts was. 
+
 ##Challenge Summary
 Based on the tornout and the results the key county to win an election will be dominate Denver votes, by dominating a high tornout county there are more likely chances to win elections. 
 Using data, actions or desicions could get easier, maybe we could start splitting this information among most participative neighborhoods to focus marketing or social behavioral marketing within those sections of the county. 
