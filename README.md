@@ -26,6 +26,20 @@ The analysis of the election show that:
   - Raymon Anthony Doane received 3.1% of the votes and 11,606 number of votes.
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-
+- The counties in which elections took place were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The total of counts and tornout per county were:
+  - Jefferson received 10.5% of the votes and 38,855 number of votes
+  - Denver received 82.9% of the votes and 306,055 number of votes
+  - Arapahoe rceived 6.7% of the votes and 24,801 number of votes
+- The county with more votes was: 
+  - Denver, who received 82.9% of the tornout of the votes and 306,055 votes.
+  - 
 ##Challenge Overview
+In this challenge we were able to understand the basics of reading and writing with data, interacting with the data and performing some math calculations. 
+The way the challenge was set up, was easily placed to place in the data as same way as the other results. Challenge was not difficult but understanding the main concepts was. 
 ##Challenge Summary
+Based on the tornout and the results the key county to win an election will be dominate Denver votes, by dominating a high tornout county there are more likely chances to win elections. 
+Using data, actions or desicions could get easier, maybe we could start splitting this information among most participative neighborhoods to focus marketing or social behavioral marketing within those sections of the county. 
